@@ -1,0 +1,13 @@
+package com.demorestassured;
+
+
+import static io.restassured.RestAssured.given;
+
+public class OAuthValidationTest {
+	
+	given()
+	
+	
+	
+
+}
